@@ -1,0 +1,15 @@
+.DS_Store
+*.DS_Store
+
+# Model weights (too large for GitHub — stored in Google Drive)
+agents/
+checkpoints/
+
+# Videos (uploaded directly to GitHub as assets)
+videos/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
